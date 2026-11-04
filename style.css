@@ -279,7 +279,9 @@ text-align:center;
 .contact-box{
 padding:25px;
 }
-
+.img-fluid{
+    height:300px;
+    width:300px;
 }
 
 @media(max-width:576px){
@@ -301,5 +303,9 @@ margin-bottom:10px;
 .project-card{
 margin-bottom:20px;
 }
+
+.img-fluid{
+    height:250px;
+    width:250px;
 
 }
